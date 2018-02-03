@@ -1,5 +1,7 @@
 import java.util.ArrayList;
 
+// my first git commit
+
 /**
  * Starting application for running multiple simulations of CrapsGame. This
  * gathers statistics (how many games were a win, and how many were a loss), and
